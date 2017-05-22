@@ -100,3 +100,6 @@ Managing Anxiety with Mindfulness For Dummies: ProQuest Tech Books
 Power and Performance: ProQuest Tech Books
  http://proquest.safaribooksonline.com.rpa.sccl.org/book/operating-systems-and-server-administration/linux/9780128007266
 
+How to Speak So People Really Listen: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/communications/presentations/9780857087201
+
