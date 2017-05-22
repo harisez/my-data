@@ -52,3 +52,51 @@ Breaking Through “Bitch”: ProQuest Tech Books
 Your Next Role: ProQuest Tech Books
  http://proquest.safaribooksonline.com.rpa.sccl.org/book/management/9781292112534
 
+Change Your Life with Positive Psychology: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/personal-development/9781292084350
+
+Your Trajectory Code: How to Change Your Decisions, Actions, and Directions, to Become Part of the Top 1% High Achievers: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/professional-development/9781119043324
+
+Collaborating with the Enemy: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/work-relationships/9781626568242
+
+Persuade: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/communications/9780857086365
+
+Just Listen: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/communications/9780814436479
+
+Stress-Free Discipline: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/marriage-and-family/9780814449097
+
+No Sweat: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/health-and-fitness/9780814434857
+
+E-mail and Behavioral Changes: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/home-networking-and-security/9781848218505
+
+The Dream Chaser: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/personal-development/9781119318903
+
+Brilliant Personal Effectiveness: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/professional-development/9781292077567
+
+Unequaled: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/career-development/9781119081456
+
+Partnering with the Frenemy: A Framework for Managing Business Relationships, Minimizing Conflict, and Achieving Partnership Success: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/communications/9780134386928
+
+The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise, Second Edition: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/web-development/9780134031408
+
+Hopping over the Rabbit Hole: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/small-business-and-entrepreneurship/9781119116332
+
+Managing Anxiety with Mindfulness For Dummies: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/stress-management/9781118972526
+
+Power and Performance: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/operating-systems-and-server-administration/linux/9780128007266
+
