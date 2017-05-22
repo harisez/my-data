@@ -17,17 +17,5 @@ Managing Humans: Biting and Humorous Tales of a Software Engineering Manager, Th
 A Practical Guide to Continuous Delivery: ProQuest Tech Books
  http://proquest.safaribooksonline.com.rpa.sccl.org/book/software-engineering-and-development/9780134691626
 
-Spring Security Essentials: ProQuest Tech Books
- http://proquest.safaribooksonline.com.rpa.sccl.org/book/software-engineering-and-development/9781785282621
-
-Spring Integration Essentials: ProQuest Tech Books
- http://proquest.safaribooksonline.com.rpa.sccl.org/book/software-engineering-and-development/enterprise/9781783989164
-
 Requirements Writing for System Engineering: ProQuest Tech Books
  http://proquest.safaribooksonline.com.rpa.sccl.org/book/software-engineering-and-development/software-requirements/9781484220993
-
-Project Management the Agile Way: ProQuest Tech Books
- http://proquest.safaribooksonline.com.rpa.sccl.org/book/software-engineering-and-development/agile-development/9781604277647
-
-Agile Product Development: How to Design Innovative Products Th at Create Customer Value: ProQuest Tech Books
- http://proquest.safaribooksonline.com.rpa.sccl.org/book/software-engineering-and-development/agile-development/9781484210673
