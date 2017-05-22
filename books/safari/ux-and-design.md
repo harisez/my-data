@@ -26,3 +26,7 @@ Designing Social Interfaces, 2nd Edition: ProQuest Tech Books
  
 UX Strategy: ProQuest Tech Books
  http://proquest.safaribooksonline.com.rpa.sccl.org/book/software-engineering-and-development/user-interface/9781449372972
+ 
+
+Designing Products People Love: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/design/9781491923696
