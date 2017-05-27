@@ -180,4 +180,25 @@ Node.js Design Patterns - Second Edition: ProQuest Tech Books
 The DevOps Adoption Playbook: ProQuest Tech Books
  http://proquest.safaribooksonline.com.rpa.sccl.org/book/software-engineering-and-development/agile-development/9781119308744
 
+Essential Virtual SAN (VSAN): Administrator’s Guide to VMware® Virtual SAN, Second Edition: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/operating-systems-and-server-administration/virtualization/9780134510323
+
+Mastering Non-Functional Requirements: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/9781788299237
+
+Go Programming Blueprints: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/programming/go/9781783988020
+
+Docker: Up & Running: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/software-engineering-and-development/9781491917565
+
+Node.js By Example: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/programming/javascript/9781784395711
+
+Microservices, IoT, and Azure: Leveraging DevOps and Microservice Architecture to Deliver SaaS Solutions: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/web-development/9781484212752
+
+Pro Couchbase Server, Second Edition: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/operating-systems-and-server-administration/9781484211854
+
 
