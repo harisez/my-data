@@ -43,9 +43,6 @@ Python Recipes Handbook: A Problem-Solution Approach: ProQuest Tech Books
 Learning Python Application Development: ProQuest Tech Books
  http://proquest.safaribooksonline.com.rpa.sccl.org/book/programming/python/9781785889196
 
-Beginning Python: From Novice to Professional, Third Edition: ProQuest Tech Books
- http://proquest.safaribooksonline.com.rpa.sccl.org/book/programming/python/9781484200285
-
 Python Crash Course: ProQuest Tech Books
  http://proquest.safaribooksonline.com.rpa.sccl.org/book/programming/python/9781457197185
 
