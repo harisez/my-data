@@ -1,4 +1,7 @@
 
+OCA Java SE 8 Programmer I Certification Guide: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/certification/java/9781617293252
+
 Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809: A Comprehensive OCPJP 8 Certification Guide: ProQuest Tech Books
  http://proquest.safaribooksonline.com.rpa.sccl.org/book/certification/oracle/9781484218365
 
