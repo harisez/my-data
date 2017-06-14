@@ -77,3 +77,8 @@ Kubernetes Management Design Patterns: With Docker, CoreOS Linux, and Other Plat
 
 Kubernetes Microservices with Docker: ProQuest Tech Books
  http://0-proquest.safaribooksonline.com.catalog.sjlibrary.org/9781484219072
+ 
+ Pivotal Certified Spring Web Application Developer Exam: A Study Guide - Books24x7
+ http://0-library.books24x7.com.catalog.sjlibrary.org/toc.aspx?bookid=106753
+
+
