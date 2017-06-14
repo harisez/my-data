@@ -81,4 +81,16 @@ Kubernetes Microservices with Docker: ProQuest Tech Books
  Pivotal Certified Spring Web Application Developer Exam: A Study Guide - Books24x7
  http://0-library.books24x7.com.catalog.sjlibrary.org/toc.aspx?bookid=106753
 
+Beginning Ruby: From Novice to Professional, Third Edition - Books24x7
+ http://0-library.books24x7.com.catalog.sjlibrary.org/toc.aspx?bookid=115822
+
+Deploying Rails with Docker, Kubernetes and ECS - Books24x7
+ http://0-library.books24x7.com.catalog.sjlibrary.org/toc.aspx?bookid=120227
+
+Ruby Recipes: A Problem-Solution Approach - Books24x7
+ http://0-library.books24x7.com.catalog.sjlibrary.org/toc.aspx?bookid=125385
+
+Test Driven Development in Ruby: A Practical Introduction to TDD Using Problem and Solution Domain Analysis - Books24x7
+ http://0-library.books24x7.com.catalog.sjlibrary.org/toc.aspx?bookid=125795
+ 
 
