@@ -1,6 +1,8 @@
 ProQuest Tech Books - Search
  http://proquest.safaribooksonline.com.rpa.sccl.org/search?q=Cassandra#X2ludGVybmFsX3NlYXJjaHJlc3VsdHM/cGFnZT0xJnNyY2ZpbHRlcnM9NyZzb3J0PXJhbmsmb3JkZXI9ZGVzYyZzcmN1c2VycXVlcnk9KENhc3NhbmRyYSk=
 
+Learning Apache Cassandra - Second Edition: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/9781787127296
 
 Optimizing Cassandra performance: ProQuest Tech Books
  http://proquest.safaribooksonline.com.rpa.sccl.org/book/software-engineering-and-development/9781491979709
