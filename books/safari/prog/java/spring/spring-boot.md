@@ -7,3 +7,5 @@ Spring Boot in Action: ProQuest Tech Books
 Spring Boot Cookbook: ProQuest Tech Books
  http://proquest.safaribooksonline.com.rpa.sccl.org/book/software-engineering-and-development/9781785284151
 
+Pro Spring Boot: ProQuest Tech Books
+ http://proquest.safaribooksonline.com.rpa.sccl.org/book/programming/9781484214312
