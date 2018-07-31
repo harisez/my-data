@@ -5,3 +5,6 @@ https://www.cars.com/articles/which-cars-have-self-driving-features-for-2018-142
 Mazda radar cruise control with stop and go - Page 2
 https://www.mazdas247.com/forum/showthread.php?123860605-Mazda-radar-cruise-control-with-stop-and-go/page2
 
+Collision avoidance system - Wikipedia
+https://en.wikipedia.org/wiki/Collision_avoidance_system
+
