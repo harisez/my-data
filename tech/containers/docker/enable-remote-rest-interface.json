@@ -16,3 +16,15 @@ bash-4.2# cat /etc/docker/daemon.json.debug
 
 Docker - How do I enable the remote API for dockerd
  https://success.docker.com/article/how-do-i-enable-the-remote-api-for-dockerd
+
+Connect to another host with your docker client, without modifying your local Docker installation · GitHub  
+ https://gist.github.com/kekru/4e6d49b4290a4eebc7b597c07eaf61f2  
+
+Playbook for accessing docker daemon remotely · GitHub  
+ https://gist.github.com/trishnaguha/4461615d562e10e4bd72a6df5f45ae9e  
+
+How to Enable Docker Remote REST API on Docker Host - Little Big Extra  
+ http://www.littlebigextra.com/how-to-enable-remote-rest-api-on-docker-host/  
+
+Docker - How do I enable the remote API for dockerd  
+ https://success.docker.com/article/how-do-i-enable-the-remote-api-for-dockerd  
