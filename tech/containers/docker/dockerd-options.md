@@ -10,6 +10,8 @@ Docker - How do I set the Docker daemon options?
 Configure and troubleshoot the Docker daemon | Docker Documentation
  https://docs.docker.com/config/daemon/
 
+Configure and troubleshoot the Docker daemon | Docker Documentation  
+ https://docs.docker.com/config/daemon/#configure-the-docker-daemon  
 
 
 Connecting to insecure registry
