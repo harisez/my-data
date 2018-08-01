@@ -13,3 +13,6 @@ bash-4.2# cat /etc/docker/daemon.json.debug
   "tlskey": "/var/docker/serverkey.pem",
   "hosts": ["tcp://192.168.59.3:2376"]
 }
+
+Docker - How do I enable the remote API for dockerd
+ https://success.docker.com/article/how-do-i-enable-the-remote-api-for-dockerd
