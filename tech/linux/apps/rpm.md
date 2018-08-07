@@ -4,12 +4,13 @@ The easiest way to locate all files installed from RPM package on your system is
 
 rpm -qlp telnet-server-1.2-137.1.i586.rpm
 
-RPM options used:
--q : this is a general rpm query
--l : list package content
--p : package name
+RPM options used:  
+-q : this is a general rpm query  
+-l : list package content  
+-p : package name  
 
 
-To check a content of the RPM package before installation you can do:
+To check a content of the RPM package before installation you can do:  
 
-rpm -ql telnet
+rpm -ql telnet  
+
