@@ -1,4 +1,4 @@
-Salsa20 - Wikipedia  ( Chacha20 / Poly )
+Salsa20 - Wikipedia  ( Chacha20 / Poly )  
  https://en.wikipedia.org/wiki/Salsa20  
 
 tls - What's the appeal of using ChaCha20 instead of AES? - Cryptography Stack Exchange  
