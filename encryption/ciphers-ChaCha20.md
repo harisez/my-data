@@ -12,3 +12,10 @@ ChaCha20 · libsodium
 
 Introduction · libsodium  
  https://download.libsodium.org/doc/  
+
+jedisct1/libsodium: A modern, portable, easy to use crypto library  
+ https://github.com/jedisct1/libsodium  
+
+NaCl (software) - Wikipedia  
+ https://en.wikipedia.org/wiki/NaCl_(software)  
+
