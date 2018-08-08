@@ -1,3 +1,5 @@
+shell - Extract date from a variable in a different format - Unix & Linux Stack Exchange  
+ https://unix.stackexchange.com/questions/107290/extract-date-from-a-variable-in-a-different-format  
 
 Create timestamp variable in bash script - Stack Overflow  
  https://stackoverflow.com/questions/17066250/create-timestamp-variable-in-bash-script  
