@@ -21,3 +21,12 @@ Nano Defender - Chrome Web Store
 Flashcontrol - Chrome Web Store  
  https://chrome.google.com/webstore/detail/flashcontrol/mfidmkgnfgnkihnjeklbekckimkipmoe  
 
+
+Copy All Urls - Chrome Web Store  
+ https://chrome.google.com/webstore/detail/copy-all-urls/iiagcalhlpmgdipdcikkjiliaankcagj  
+
+Copy All URLs Options  :  
+%text%  \n %url%  \n  
+
+
+
