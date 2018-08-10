@@ -15,7 +15,11 @@ Nano Adblocker - Chrome Web Store
 Nano Defender - Chrome Web Store  
  https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb  
 
-
+<BR>
+ 
+ BehindTheOverlay - Chrome Web Store  
+ https://chrome.google.com/webstore/detail/behindtheoverlay/ljipkdpcjbmhkdjjmbbaggebcednbbme  
+ 
 <BR>
 
 Flashcontrol - Chrome Web Store  
