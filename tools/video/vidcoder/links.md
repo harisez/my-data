@@ -74,5 +74,10 @@ Audio and Video Support - Roku SDK Documentation - Developer Documentation
 Stream any Supported/Unsupported Video and Audio format to Roku – Open Media Community
  http://open-media-community.com/2015/01/27/stream-any-format-to-roku/
 
+Handbrake settings to preserve DVD quality - General / General Discussions - Plex Forum  
+ https://forums.plex.tv/t/handbrake-settings-to-preserve-dvd-quality/174274/17  
+
+» Easiest Best Optimal settings for Handbrake DVD Video Conversion on Mac, Windows and Linux  
+ https://www.thewebernets.com/2015/02/28/easiest-best-optimal-settings-for-handbrake-dvd-video-conversion-on-mac-windows-and-linux/  
 
 
